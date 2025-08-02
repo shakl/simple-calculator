@@ -10,5 +10,11 @@ A basic command-line calculator that performs:
 
 
 
+python calculator.py
+
+
+
+
+
 
 

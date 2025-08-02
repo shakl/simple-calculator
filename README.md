@@ -1,16 +1,6 @@
 # Simple Calculator in Python 
 
-A basic command-line calculator that performs:
-
-- Addition (`+`)
-- Subtraction (`-`)
-- Multiplication (`*`)
-- Division (`/`)
-
-
-
-
-python calculator.py
+A basic command-line calculator for +, -, *, and / operations.
 
 
 

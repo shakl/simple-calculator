@@ -1,19 +1,11 @@
-# Simple Calculator
+# Simple Calculator in Python 
 
-a = float(input("Enter first number: "))
-b = float(input("Enter second number: "))
-op = input("Enter operation (+, -, *, /): ")
+num1 = float(input("Enter the first number: "))
+num2 = float(input("Enter the second number: "))
 
-if op == "+":
-    print(a, "+", b, "=", a + b)
-elif op == "-":
-    print(a, "-", b, "=", a - b)
-elif op == "*":
-    print(a, "*", b, "=", a * b)
-elif op == "/":
-    if b != 0:
-        print(a, "/", b, "=", a / b)
-    else:
-        print("Error: Cannot divide by zero.")
-else:
-    print("Invalid operation.")
+print("Results:")
+print("Addition:", num1 + num2)
+print("Subtraction:", num1 - num2)
+print("Multiplication:", num1 * num2)
+print("Division:", num1 / num2)
+

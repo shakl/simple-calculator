@@ -1,4 +1,4 @@
-# Simple Calculator in Python 🧮
+# Simple Calculator in Python 
 
 A basic command-line calculator that performs:
 
